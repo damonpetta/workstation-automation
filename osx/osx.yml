@@ -4,17 +4,15 @@
 - include: ../common/playbooks/aws.yml
 - include: ../common/playbooks/keys.yml
 - include: ../common/playbooks/atom-plugins.yml
-- include: playbooks/emacs.yml
 - include: playbooks/macdown.yml
 - include: playbooks/spotify.yml
 - include: playbooks/terraform.yml
-- include: playbooks/wunderlist.yml
 - include: playbooks/grammarly.yml
 - include: playbooks/fonthack.yml
-- include: playbooks/self-control.yml
-- include: playbooks/digital-ocean.yml
 - include: playbooks/ruby.yml
 - include: playbooks/node.yml
-- include: playbooks/elasticsearch.yml
-- include: playbooks/redis.yml
-- include: playbooks/percona-server.yml
+- include: playbooks/osx/main.yml
+
+# - include: playbooks/self-control.yml
+# - include: playbooks/emacs.yml
+# - include: playbooks/wunderlist.yml

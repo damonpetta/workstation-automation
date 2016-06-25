@@ -1,0 +1,9 @@
+- include: osx_pref_activity_monitor.yml
+- include: osx_pref_dock.yml
+- include: osx_pref_finder.yml
+- include: osx_pref_general_ui_ux.yml
+- include: osx_pref_screen.yml
+- include: osx_pref_ssd.yml
+- include: osx_pref_textedit.yml
+- include: osx_pref_timemachine.yml
+- include: osx_pref_trackpad.yml
