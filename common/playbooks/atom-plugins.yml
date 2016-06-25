@@ -12,4 +12,16 @@
         - advanced-open-file
         - slime
         - dash
+        - atom-jinja2
+        - language-ansible
+        - language-docker
+        - language-latex
+        - language-pfm
+        - langage-terraform
+        - latex-plus
+        - linter-docker
+        - markdown-delux
+        - markdown-preview-plus
+        - pdf-view
+        - pigments
       sudo: false
