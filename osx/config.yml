@@ -1,6 +1,8 @@
 ---
 cache_dir: ~/Library/Caches/battleschool
 
+# TODO: Install Latex
+
 sources:
   local:
     - homebrew.yml
@@ -14,10 +16,7 @@ sources:
     - sonos.yml
     - slate.yml
     - vpn.yml
-    - intellij-idea-ce.yml
-    - transmission.yml
     - slack.yml
-    - flux.yml
 
   git:
    - name: 'osx'
